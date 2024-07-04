@@ -6,6 +6,7 @@ This project demonstrates a  web application for managing student records with C
 ## Preview
 
  ![image](https://github.com/freda1874/Django-RESTFramework-Web-App/assets/85437054/7108d6c4-abd5-49e1-b90c-089b2be9bd2f)
+![image](https://github.com/freda1874/Django-RESTFramework-Web-App/assets/85437054/46b10557-8cde-455a-aa5d-0515c9d34158)
 
 ## Application Architecture
 
